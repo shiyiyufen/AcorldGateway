@@ -1,0 +1,689 @@
+TInterviewProject
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch.pch InterviewProject/InterviewProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.o /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.o /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.o /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject normal i386
+cCopyStringsFile /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/en.lproj/InfoPlist.strings InterviewProject/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Images.xcassets
+cProcessInfoPlistFile /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/Info.plist /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Info.plist
+cGenerateDSYMFile /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app.dSYM /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject
+cTouch /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000533B9FAC000000000058E0E0
+t1396416428
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533B9FAC00000000005B82F0
+t1396416428
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000533B9FAD00000000003599D0
+t1396416429
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000533B9FAD00000000002FC3B0
+t1396416429
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000533B9FAD000000000004B000
+t1396416429
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000533B9FB10000000000037680
+t1396416433
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000533B9FB2000000000048F720
+t1396416434
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000533B9FB2000000000013FD70
+t1396416434
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000533B9FCB00000000002BC360
+t1396416459
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000533B9FD90000000000002338
+t1396416473
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000533B9FDA000000000008D370
+t1396416474
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533B9FDA0000000000392E20
+t1396416474
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005271FC2900000000000141F0
+t1383201833
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533B9FDA0000000000014A80
+t1396416474
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533B9FDA0000000000033BA0
+t1396416474
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000533B9FDA000000000001CFB0
+t1396416474
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000533B9FDA000000000001B2B0
+t1396416474
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000533B9FDA00000000000C9570
+t1396416474
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533B9FDA0000000000063280
+t1396416474
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533B9FDA0000000000008880
+t1396416474
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533B9FDA0000000000015080
+t1396416474
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000533B9FDA00000000000230F0
+t1396416474
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000533B9FDA000000000000E380
+t1396416474
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533B9FDA0000000000089380
+t1396416474
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533B9FDA0000000000017320
+t1396416474
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533B9FDA0000000000039CD0
+t1396416474
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000533B9FDA000000000000B0B0
+t1396416474
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533B9FDA0000000000167E80
+t1396416474
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000533B9FDA00000000000106A0
+t1396416474
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000533B9FDA000000000001CE40
+t1396416474
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000533B9FDA00000000000740C0
+t1396416474
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000533B9FDA000000000006CA60
+t1396416474
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000533B9FDA000000000001BAD0
+t1396416474
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533B9FDA0000000000084A20
+t1396416474
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000533B9F79000000000000514C
+t1396416377
+s20812
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.o
+t1410578477
+s62440
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/InterviewProject.LinkFileList
+c000000005413B82C0000000000000209
+t1410578476
+s521
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.o
+t1410578732
+s52612
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.o
+t1410578477
+s3596
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/assetcatalog_dependencies.txt
+t1410578478
+s848
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/assetcatalog_generated_info.plist
+t1410578478
+s777
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch.pch
+t1410578476
+s122560
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app
+t1410578732
+s408
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app.dSYM
+t1410578634
+s102
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/Base.lproj/Main.storyboardc
+t1410578634
+s170
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/Info.plist
+t1410578479
+s1076
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject
+t1410578732
+s23096
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/PkgInfo
+t1410578479
+s8
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/en.lproj/InfoPlist.strings
+t1410578477
+s42
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.h
+c000000005413B3230000000000000117
+t1410577187
+s279
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.m
+c000000005413B32300000000000007D9
+t1410577187
+s2009
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Base.lproj/Main.storyboard
+c000000005413B8BB0000000000000FB1
+t1410578619
+s4017
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Images.xcassets
+c000000005413B5EC0000000000000088
+t1410577900
+s136
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Info.plist
+c000000005413B5F60000000000000450
+t1410577910
+s1104
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Prefix.pch
+c000000005413B3230000000000000158
+t1410577187
+s344
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.h
+c000000005413B72300000000000000DE
+t1410578211
+s222
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.m
+c000000005413B92A0000000000000644
+t1410578730
+s1604
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/en.lproj/InfoPlist.strings
+c000000005413B323000000000000002D
+t1410577187
+s45
+
+N/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/main.m
+c000000005413B3230000000000000153
+t1410577187
+s339
+
+N/usr/lib/libSystem.B.dylib
+c000000005271FC1D000000000000E6D0
+t1383201821
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005271FC290000000000012A00
+t1383201833
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005271FC11000000000002E320
+t1383201809
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005271FC1D0000000000021860
+t1383201821
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005271FC29000000000001B620
+t1383201833
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005271FC2900000000000BD920
+t1383201833
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005271FC29000000000000A120
+t1383201833
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005271FC29000000000001D550
+t1383201833
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005271FC290000000000014EE0
+t1383201833
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005271FC2B0000000000010380
+t1383201835
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005271FC2B000000000000C4C0
+t1383201835
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005271FC2900000000000357A0
+t1383201833
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005271FC29000000000000C070
+t1383201833
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005271FC1D0000000000168C00
+t1383201821
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005271FC290000000000010630
+t1383201833
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005271FC2A000000000001DF10
+t1383201834
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005271FC1D0000000000075B00
+t1383201821
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005271FC1D000000000007CC70
+t1383201821
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005271FC1D00000000000766C0
+t1383201821
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005271FC2A0000000000044DC0
+t1383201834
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005271FC1D0000000000021FA0
+t1383201821
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005271FC2A000000000002D900
+t1383201834
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005271FC2A000000000001E570
+t1383201834
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005271FC23000000000000CC70
+t1383201827
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005271FC25000000000000C3F0
+t1383201829
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005271FC2A00000000000199F0
+t1383201834
+s104944
+
+CBuild AST from /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.m
+r0
+
+CBuild AST from /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.m
+r0
+
+CBuild AST from /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2b86e7abf0c3b941^b152edabf0c3b941^---0#1#1#--18"Check dependencies36"C172C670-E9F2-4B83-98BA-8BC2F158804C-
+
+CCompileAssetCatalog /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Images.xcassets
+s432271277.317149
+e432271278.836822
+r1
+xCompileAssetCatalog
+x/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app
+x/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/AppIcon29x29@2x.png
+o/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/AppIcon40x40@2x.png
+o/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/AppIcon60x60@2x.png
+o/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/LaunchImage-700-568h@2x.png
+o/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/Assets.car
+o/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CompileAssetCatalog Build/Products/Debug-iphonesimulator/InterviewProject.app InterviewProject/Images.xcassets110"CompileAssetCatalog Build/Products/Debug-iphonesimulator/InterviewProject.app InterviewProject/Images.xcassetsd93d51adefc3b941^3b3ad6aeefc3b941^-873"/* com.apple.actool.compilation-results *//Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/AppIcon29x29@2x.png/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/AppIcon40x40@2x.png/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/AppIcon60x60@2x.png/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/LaunchImage-700-568h@2x.png/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/Assets.car/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@93"file:///Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Images.xcassets/0000000000000000^1280"CompileAssetCatalog Build/Products/Debug-iphonesimulator/InterviewProject.app InterviewProject/Images.xcassets    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Images.xcassets36"DEE5CB1F-CFBF-40DB-8C8C-9CDED6C7BBC1-
+bB1F50599-4400-43DE-B1A3-9C3C674AF68F
+
+CCompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.o /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432271276.874496
+e432271277.164234
+r1
+xCompileC
+xBuild/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.o
+x/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.m
+d/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.m229"CompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.o InterviewProject/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3ffddfacefc3b941^700b2aadefc3b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.m0000000000000000^4100"CompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.o InterviewProject/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/acorld/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-generated-files.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-own-target-headers.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-all-target-headers.hmap -iquote /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-project-headers.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/DerivedSources/i386 -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/DerivedSources -F/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator -include /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch -MMD -MT dependencies -MF /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.dia -c /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.m -o /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.o36"126D91DB-F4F8-4B69-B132-4B2AAF782D31-
+bB1F50599-4400-43DE-B1A3-9C3C674AF68F
+
+CCompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.o /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432271531.906750
+e432271532.042290
+r1
+xCompileC
+xBuild/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.o
+x/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.m
+d/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.m235"CompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.o InterviewProject/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf833e8abf0c3b941^e2e40aacf0c3b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.m0000000000000000^4118"CompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.o InterviewProject/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/acorld/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-generated-files.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-own-target-headers.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-all-target-headers.hmap -iquote /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-project-headers.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/DerivedSources/i386 -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/DerivedSources -F/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator -include /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch -MMD -MT dependencies -MF /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.dia -c /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/ViewController.m -o /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.o36"D24601BF-ED00-421F-B816-7F3A2CD0718F-
+b3A486432-4CBA-44DE-968E-C469513EA695
+
+CCompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.o /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432271276.874814
+e432271277.162938
+r1
+xCompileC
+xBuild/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.o
+x/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/main.m
+d/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/main.m215"CompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.o InterviewProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler740ce0acefc3b941^72c529adefc3b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/main.m0000000000000000^4058"CompileC Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.o InterviewProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/acorld/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-generated-files.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-own-target-headers.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-all-target-headers.hmap -iquote /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-project-headers.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/DerivedSources/i386 -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/DerivedSources -F/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator -include /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch -MMD -MT dependencies -MF /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.dia -c /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/main.m -o /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.o36"37CB2BB1-B64D-4145-9434-EED1B467E96C-
+bB1F50599-4400-43DE-B1A3-9C3C674AF68F
+
+CCompileStoryboard /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Base.lproj/Main.storyboard
+s432271434.686224
+e432271434.743390
+r1
+xCompileStoryboard
+x/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Base.lproj/Main.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Base.lproj/Main.storyboard:t0e-gx-eFN: warning: Prototype table cells must have reuse identifiers [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard InterviewProject/Base.lproj/Main.storyboard61"CompileStoryboard InterviewProject/Base.lproj/Main.storyboard16bdaf4af0c3b941^a450be4af0c3b941^-209"/* com.apple.ibtool.document.warnings *//Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Base.lproj/Main.storyboard:t0e-gx-eFN: warning: Prototype table cells must have reuse identifiers1(21%IDEActivityLogMessage2@49"Prototype table cells must have reuse identifiers-432271434#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@103"file:///Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@103"file:///Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Base.lproj/Main.storyboard0000000000000000^908"CompileStoryboard InterviewProject/Base.lproj/Main.storyboard    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/Base.lproj/Main.storyboardc /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/Base.lproj/Main.storyboard36"FB46B7C8-4060-48EF-9C0D-72DD142D0315-
+b3EEAF2A3-F655-4C7F-AF5F-8FFCB8541333
+
+CCopyStringsFile /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/en.lproj/InfoPlist.strings InterviewProject/en.lproj/InfoPlist.strings
+s432271277.316381
+e432271277.317467
+r1
+xCopyStringsFile
+x/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/en.lproj/InfoPlist.strings
+xInterviewProject/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy InterviewProject/en.lproj/InfoPlist.strings144"CopyStringsFile Build/Products/Debug-iphonesimulator/InterviewProject.app/en.lproj/InfoPlist.strings InterviewProject/en.lproj/InfoPlist.strings520b51adefc3b941^a14a51adefc3b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/en.lproj/InfoPlist.strings0000000000000000^657"CopyStringsFile Build/Products/Debug-iphonesimulator/InterviewProject.app/en.lproj/InfoPlist.strings InterviewProject/en.lproj/InfoPlist.strings    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/en.lproj -- InterviewProject/en.lproj/InfoPlist.strings36"E5B3D544-DE31-4173-9B02-2E802DFC954F-
+bB1F50599-4400-43DE-B1A3-9C3C674AF68F
+
+CGenerateDSYMFile /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app.dSYM /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject
+s432271532.089394
+e432271532.109851
+r1
+xGenerateDSYMFile
+x/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app.dSYM
+x/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Generate /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app.dSYM154"GenerateDSYMFile Build/Products/Debug-iphonesimulator/InterviewProject.app.dSYM Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject31ee16acf0c3b941^fb1f1cacf0c3b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app.dSYM/0000000000000000^757"GenerateDSYMFile Build/Products/Debug-iphonesimulator/InterviewProject.app.dSYM Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject -o /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app.dSYM36"EB93A80A-FC45-4A12-B3FE-A667B4D45390-
+b3A486432-4CBA-44DE-968E-C469513EA695
+
+CLd /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject normal i386
+s432271532.043709
+e432271532.087913
+r1
+xLd
+x/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject
+xnormal
+xi386
+d/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/InterviewProject.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/ViewController.o
+d/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/AppDelegate.o
+d/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject89"Ld Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject normal i3864f400bacf0c3b941^ed8116acf0c3b941^---0#0#1#--1563"Ld Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject normal i386    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator -F/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator -filelist /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/InterviewProject.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/Objects-normal/i386/InterviewProject_dependency_info.dat -o /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/InterviewProject36"0889F82B-C1B5-4D0F-B98B-CC9008A0A6F2-
+b3A486432-4CBA-44DE-968E-C469513EA695
+
+CProcessInfoPlistFile /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/Info.plist /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Info.plist
+s432271279.010449
+e432271279.011883
+r1
+xProcessInfoPlistFile
+x/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/Info.plist
+x/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Process /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Info.plist134"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/InterviewProject.app/Info.plist InterviewProject/InterviewProject-Info.plist63b802afefc3b941^780c03afefc3b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Info.plist0000000000000000^1033"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/InterviewProject.app/Info.plist InterviewProject/InterviewProject-Info.plist    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Info.plist -genpkginfo /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/assetcatalog_generated_info.plist -o /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app/Info.plist36"61506346-23F9-4BFE-827D-D45266BAE01D-
+bB1F50599-4400-43DE-B1A3-9C3C674AF68F
+
+CProcessPCH /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch.pch InterviewProject/InterviewProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432271276.553859
+e432271276.873574
+r1
+xProcessPCH
+x/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch.pch
+xInterviewProject/InterviewProject-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile InterviewProject/InterviewProject-Prefix.pch247"ProcessPCH Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch.pch InterviewProject/InterviewProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd7dc8dacefc3b941^2fa4dfacefc3b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Prefix.pch0000000000000000^3959"ProcessPCH Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch.pch InterviewProject/InterviewProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/acorld/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-generated-files.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-own-target-headers.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-all-target-headers.hmap -iquote /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/InterviewProject-project-headers.hmap -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/DerivedSources/i386 -I/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/InterviewProject.build/Debug-iphonesimulator/InterviewProject.build/DerivedSources -F/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch.dia -MMD -MT dependencies -MF /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch.d -c /Users/acorld/AcorldGateway/Project/InterviewProject/InterviewProject/InterviewProject-Prefix.pch -o /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Intermediates/PrecompiledHeaders/InterviewProject-Prefix-atllenoroncvimblkehggcqqfvrc/InterviewProject-Prefix.pch.pch36"3059E043-D5CF-44C1-9440-0A4B1AEDAEDC-
+bB1F50599-4400-43DE-B1A3-9C3C674AF68F
+
+CProcessPCH /Users/acorld/Library/Developer/Xcode/DerivedData/InterviewProject-hhgdglapujzxxfbejidmxnybwgmj/Index/PrecompiledHeaders/InterviewProject-Prefix-dpcxjvnjyyhcbxclhcvvhgxggppc_ast/InterviewProject-Prefix.pch.pch InterviewProject/InterviewProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app
+s432271411.807924
+e432271411.813265
+r1
+xTouch
+x/Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Touch /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app63"Touch Build/Products/Debug-iphonesimulator/InterviewProject.app7bddce33f0c3b941^8333d033f0c3b941^---0#0#1#--452"Touch Build/Products/Debug-iphonesimulator/InterviewProject.app    cd /Users/acorld/AcorldGateway/Project/InterviewProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/acorld/AcorldGateway/Project/InterviewProject/Build/Products/Debug-iphonesimulator/InterviewProject.app36"E38BDB49-6E65-4A2C-A4DE-C9D24635CCD2-
+bC53DBC60-FC91-45F4-B279-25C36E5F6E99
+
